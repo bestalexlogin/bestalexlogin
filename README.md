@@ -1,7 +1,5 @@
 # Full-stack developer
-## Hi there 👋
-
-I am developer from Ukraine. I have practical experience applying Agile/Scrum methodology. I am a fast learner, responsible, and ready to decide difficult tasks.
+Hi there 👋 I'm developer from Ukraine. I have practical experience applying Agile/Scrum methodology. I'm a fast learner, responsible, and ready to decide difficult tasks.
 ## My tech stack
 ![](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
 ![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=black)
