@@ -12,4 +12,4 @@ I am developer from Ukraine. I have practical experience applying Agile/Scrum me
 ![](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black)
 ![](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=black)
 ## Contact Me:
-[LinkedIn](https://www.linkedin.com/in/oleksiy-harhas/) | [Telegram](https://t.me/crazy_login) | [GitHub](https://github.com/bestalexlogin) | [never.fade.ever@gmail.com](mailto:never.fade.ever@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/oleksiy-harhas/) | [Telegram](https://t.me/crazy_login) | [GitHub](https://github.com/bestalexlogin)
